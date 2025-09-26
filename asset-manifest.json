@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ramya-portfolio/static/css/main.574ad238.css",
+    "main.js": "/ramya-portfolio/static/js/main.eac073a2.js",
+    "index.html": "/ramya-portfolio/index.html",
+    "main.574ad238.css.map": "/ramya-portfolio/static/css/main.574ad238.css.map",
+    "main.eac073a2.js.map": "/ramya-portfolio/static/js/main.eac073a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.574ad238.css",
+    "static/js/main.eac073a2.js"
+  ]
+}
